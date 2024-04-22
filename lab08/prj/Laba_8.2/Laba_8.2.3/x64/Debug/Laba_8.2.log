@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\Laba_8.2\Laba_8.2\Main.cpp(25,5): error C2084: function 'int Job_name(void)' already has a body
+  D:\StaticLib\StaticLib\Name.h(7,9):
+  see previous definition of 'Job_name'
+  

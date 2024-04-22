@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BMTP\\BMTP-LAB8\\prj\\StaticLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E519D104-0BDF-4DD4-83B8-76F59B7EA966}|StaticLib\\StaticLib.vcxproj|D:\\BMTP\\BMTP-LAB8\\prj\\StaticLib\\StaticLib\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E519D104-0BDF-4DD4-83B8-76F59B7EA966}|StaticLib\\StaticLib.vcxproj|solutionrelative:StaticLib\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E519D104-0BDF-4DD4-83B8-76F59B7EA966}|StaticLib\\StaticLib.vcxproj|D:\\BMTP\\BMTP-LAB8\\prj\\StaticLib\\StaticLib\\Name.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E519D104-0BDF-4DD4-83B8-76F59B7EA966}|StaticLib\\StaticLib.vcxproj|solutionrelative:StaticLib\\Name.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Name.h",
+              "DocumentMoniker": "D:\\BMTP\\BMTP-LAB8\\prj\\StaticLib\\StaticLib\\Name.h",
+              "RelativeDocumentMoniker": "StaticLib\\Name.h",
+              "ToolTip": "D:\\BMTP\\BMTP-LAB8\\prj\\StaticLib\\StaticLib\\Name.h",
+              "RelativeToolTip": "StaticLib\\Name.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-24T10:28:54.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\BMTP\\BMTP-LAB8\\prj\\StaticLib\\StaticLib\\main.cpp",
+              "RelativeDocumentMoniker": "StaticLib\\main.cpp",
+              "ToolTip": "D:\\BMTP\\BMTP-LAB8\\prj\\StaticLib\\StaticLib\\main.cpp",
+              "RelativeToolTip": "StaticLib\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-24T10:28:39.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
