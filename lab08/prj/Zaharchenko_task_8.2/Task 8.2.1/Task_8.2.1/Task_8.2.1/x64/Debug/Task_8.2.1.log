@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\University Labs\BMTP\BMTP-LAB8\prj\Zaharchenko_task_8.2\Task 8.2.1\Task_8.2.1\x64\Debug\Task_8.2.1.exe : fatal error LNK1120: 1 unresolved externals
