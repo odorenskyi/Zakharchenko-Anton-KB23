@@ -12,13 +12,13 @@ void myFunction_1()
 	ofstream file("Text.txt", ios_base::app);
 	if (file.is_open())
 	{
-		file << "\n\nÇàõàð÷åíêî Àíòîí\n"
-				"ÖÍÒÓ\n"
-				"Êðîïèâíèöüêèé\n"
-				"Óêðà¿íà\n"
+		file << "\n\nÐ—Ð°Ñ…Ð°Ñ€Ñ‡ÐµÐ½ÐºÐ¾ ÐÐ½Ñ‚Ð¾Ð½\n"
+				"Ð¦ÐÐ¢Ð£\n"
+				"ÐšÑ€Ð¾Ð¿Ð¸Ð²Ð½Ð¸Ñ†ÑŒÐºÐ¸Ð¹\n"
+				"Ð£ÐºÑ€Ð°Ñ—Ð½Ð°\n"
 				"2024\n\n";
 
-		file  << "Çàðàç áóäå âèâåäåíî ÷èñëî â³ä 10 äî 100" << endl;
+		file  << "Ð—Ð°Ñ€Ð°Ð· Ð±ÑƒÐ´Ðµ Ð²Ð¸Ð²ÐµÐ´ÐµÐ½Ð¾ Ñ‡Ð¸ÑÐ»Ð¾ Ð²Ñ–Ð´ 10 Ð´Ð¾ 100" << endl;
 			srand((unsigned) time(NULL));
 			for (int i = 10; i <= 10; i++)
 			{
@@ -43,7 +43,7 @@ void myFunction_2()
 		char timeString[100];
 		asctime_s(timeString, sizeof(timeString), &localTimeInfo);
 
-		file << "Ì³ñöåâèé ÷àñ: " << timeString <<endl<<endl;
+		file << "ÐœÑ–ÑÑ†ÐµÐ²Ð¸Ð¹ Ñ‡Ð°Ñ: " << timeString <<endl<<endl;
 
 		file.close();
 	}
